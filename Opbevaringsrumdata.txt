@@ -1,0 +1,10 @@
+1
+DetKreativeHjoerne
+2
+Vaerksted
+pensler,tegnebræt,maling,tsser,blyanter
+2
+DetGamleSkur
+0
+Skur
+cykler,skovle,spande,gokarts
